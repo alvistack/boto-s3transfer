@@ -1,0 +1,7 @@
+python-s3transfer (100:0.7.0-1) UNRELEASED; urgency=medium
+
+
+  * https://github.com/boto/s3transfer/releases/tag/0.7.0
+
+ 
+ -- Prasanthi Kanneganti <pkanneganti4e@pantarei-design.com>  Wed, 27 Sep 2023 11:02:48 +0800
