@@ -40,3 +40,4 @@ src/
 
 # Completions Index
 completions.idx
+.pybuild/
