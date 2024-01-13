@@ -1,0 +1,5 @@
+python-s3transfer (100:0.10.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/boto/s3transfer/releases/tag/0.10.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 13 Jan 2024 10:09:01 +0800
