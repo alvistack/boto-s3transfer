@@ -1,0 +1,4 @@
+python3-s3transfer: copyright-without-copyright-notice
+python3-s3transfer: initial-upload-closes-no-bugs
+python3-s3transfer: no-manual-page
+python3-s3transfer: zero-byte-file-in-doc-directory

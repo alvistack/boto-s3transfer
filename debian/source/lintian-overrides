@@ -1,0 +1,5 @@
+python-s3transfer source: file-without-copyright-information
+python-s3transfer source: no-debian-changes
+python-s3transfer source: source-contains-prebuilt-windows-binary
+python-s3transfer source: source-is-missing
+python-s3transfer source: source-package-encodes-python-version
