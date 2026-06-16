@@ -1,0 +1,5 @@
+{
+  "type": "feature",
+  "category": "``s3``",
+  "description": "Update multi-part copy logic to match single-part behavior for TaggingDirective and AnnotationDirective"
+}
